@@ -37,11 +37,19 @@ Chi tiết hai mô hình có thể xem trong file `logistic_model.py` hoặc `te
 
 Sau đây là một vài hình ảnh minh họa khi deploy web app:
 
-![Dự đoán bởi Logistic](https://github.com/user-attachments/assets/4d29dccb-ec61-4c5e-9284-8fcc851fb7f3)
 
-![Dự đoán bởi CNN](https://github.com/user-attachments/assets/552838d0-dd5d-4005-a68a-9b0b4860c30c)
+![alt text](/img/anh1.png)
+|:--:| 
+| *Dự đoán bởi Logistic* |
 
-![Dự đoán bởi Logistic](https://github.com/user-attachments/assets/d4f9a4a2-b27f-4e7d-b5bd-b05982f40f67)
+![alt text](/img/anh2.png)
+|:--:| 
+| *Dự đoán bởi CNN* |
 
-![Dự đoán bởi CNN](https://github.com/user-attachments/assets/83367a7d-d1ce-4a13-b8a0-93023525c2a8)
+![alt text](/img/anh3.png)
+|:--:| 
+| *Dự đoán bởi Logistic* |
 
+![alt text](/img/anh4.png)
+|:--:| 
+| *Dự đoán bởi CNN* |
